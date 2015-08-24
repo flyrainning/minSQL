@@ -8,7 +8,7 @@
 1. 本页面并独立页面，没有<html><body></body></html>结构，所以可直接包含到您现有系统的页面结构中。若要单独使用，也请建立相应html结构后包含本文件。
 2. 页面需使用utf-8编码。
 3. 需预先包含`jquery`和`jquery-ui`。需要jquery-ui的dialog支持。
-4. 需要[SQLiPlus]()支持，请先包含SQLiPlus数据库操作类。
+4. 需要[SQLiPlus](https://github.com/flyrainning/SQLiPlus)支持，请先包含SQLiPlus数据库操作类。
 
 
 ## 可用设置
