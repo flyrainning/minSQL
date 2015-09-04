@@ -500,6 +500,7 @@ table.gridtable td {
 	border-color: #666666;
 	background-color: #ffffff;
 	vertical-align:top;
+	word-break:break-all;
 }
 .noticeimg{
 	display:inline-block;
